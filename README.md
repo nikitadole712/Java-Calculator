@@ -20,7 +20,10 @@ This is a simple Java program that functions as a basic calculator. Users can in
 ## Example
 
 Please enter the first number: 10
+
 Please enter the second number: 5
+
 Please enter the operation (+, -, *, /): +
+
 Result: 15.0
 
